@@ -6,12 +6,12 @@
 #    By: afontain <afontain@student.42.fr>          +#+  +:+       +#+         #
 #                                                 +#+#+#+#+#+   +#+            #
 #    Created: 2024/07/16 15:58:55 by afontain          #+#    #+#              #
-#    Updated: 2024/07/16 17:27:37 by afontain         ###   ########.fr        #
+#    Updated: 2024/07/26 13:31:37 by afontain         ###   ########.fr        #
 #                                                                              #
 # **************************************************************************** #
 
 
-NAME = megaphone
+NAME = Phonebook
 
 SRC = ./PhoneBook.cpp \
 	  ./Contact.cpp \

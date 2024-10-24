@@ -22,6 +22,7 @@ public:
 	int	isPhone(std::string str);
 	void printline(std::string list);
 	int	isInput(std::string str);
+	void printContact();
 	void search();
 	void setLastName();
 	void setFirstName();
